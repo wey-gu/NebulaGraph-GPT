@@ -1,8 +1,10 @@
-# [TwitterBio.com](https://www.twitterbio.com/)
+# [nGQL-GPT](https://ngql-gpt.siwei.io/)
 
-This project generates Twitter bios for you using AI.
+This project help compose NebulaGraph Query for you using AI.
 
-[![Twitter Bio Generator](./public/screenshot.png)](https://www.twitterbio.com)
+[![nGQL-GPT](./public/ngql_gpt_screenshot.webp)](https://ngql-gpt.siwei.io)
+
+https://user-images.githubusercontent.com/1651790/218627408-995b81e1-9b01-423c-ba90-849faaad6f5d.mp4
 
 ## How it works
 
@@ -24,4 +26,4 @@ npm run dev
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Nutlope/twitterbio&env=OPENAI_API_KEY&project-name=twitter-bio-generator&repo-name=twitterbio)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/wey-gu/NebulaGraph-GPT&env=OPENAI_API_KEY&project-name=NebulaGraph-GPT&repo-name=NebulaGraph-GPT)
