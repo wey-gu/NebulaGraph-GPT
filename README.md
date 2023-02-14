@@ -1,6 +1,6 @@
 # [nGQL-GPT](https://ngql-gpt.siwei.io/)
 
-This project help compose NebulaGraph Query for you using AI.
+This project help compose NebulaGraph Query for you using AI, it's inspired(and a fork) of [twitter-bio-generator](https://github.com/Nutlope/twitterbio) from [@Nutlope](https://github.com/Nutlope).
 
 [![nGQL-GPT](./public/ngql_gpt_screenshot.webp)](https://ngql-gpt.siwei.io)
 
