@@ -116,7 +116,7 @@ Query:`;
               className="mb-5 sm:mb-0"
             />
             <p className="text-left font-medium">
-              Write your schema {" "}
+              Write your schema
               {/* <span className="text-slate-500">
                 (or drop your DDL queries)
               </span> */}
