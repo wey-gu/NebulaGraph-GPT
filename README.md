@@ -4,6 +4,8 @@ This project help compose NebulaGraph Query for you using AI, it's inspired(and 
 
 [![nGQL-GPT](./public/ngql_gpt_screenshot.webp)](https://ngql-gpt.siwei.io)
 
+## Demo
+
 https://user-images.githubusercontent.com/1651790/218627408-995b81e1-9b01-423c-ba90-849faaad6f5d.mp4
 
 ## How it works
